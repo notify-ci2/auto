@@ -5,4 +5,5 @@ jvm:
   
 build:
   ci:
+    - cd sample
     - java -version
